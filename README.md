@@ -24,7 +24,7 @@ The port to be used for running the HTTP server.
 
 #### SITE_URL
 
-default: `http://localhost:3000`</br>
+default: `http://gsk1040.github.io`</br>
 
 It sets the base URL to be used for resolving relative URLs detected on GitHub.
 
